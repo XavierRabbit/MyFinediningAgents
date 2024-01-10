@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "export/map.json": {
+            "scale": 1.5279166666666666,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 240.52358876465777,
+                "y": 159.36733024270518
+            }
+        },
+        "medieval.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mid_age.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "last.exportedFilePath": "F:/AI/GPT/01Hospitality_project/Rerun_theGenerativeAgentProject/MyFinediningAgents/test0.1/assests/images",
+    "last.imagePath": "F:/AI/GPT/01Hospitality_project/Rerun_theGenerativeAgentProject/MyFinediningAgents/test0.1/assests/images",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 30,
+    "openFiles": [
+    ],
+    "project": "restaurant_v0.1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "export/map.json",
+        "medieval.tsx",
+        "mid_age.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
